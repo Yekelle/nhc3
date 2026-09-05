@@ -95,14 +95,15 @@ body::before {
   left: 50%;
   transform: translateX(-50%);
 
-  bottom: -0.15rem;
+  bottom: -0.18rem;
 
   color: var(--nhc-gold-soft);
-  font-size: 0.72rem;
-  font-weight: 800;
-  letter-spacing: 0.22em;
 
-  opacity: 0.9;
+  font-size: 0.9rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+
+  opacity: 0.95;
   white-space: nowrap;
 }
 
