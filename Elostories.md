@@ -6,6 +6,7 @@ nav_order: 8
 nav_exclude: true
 search_exclude: true
 published: false
+participant_image: "/assets/participants/EloStories.png"
 ---
 
 <div class="nhc-participant-header">

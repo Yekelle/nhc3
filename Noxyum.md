@@ -6,6 +6,7 @@ nav_order: 14
 nav_exclude: true
 search_exclude: true
 published: false
+participant_image: "/assets/participants/Noxyum_.png"
 ---
 
 <div class="nhc-participant-header">

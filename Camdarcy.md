@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Camdarcy
+parent: Participants
 nav_order: 6
 nav_exclude: true
 search_exclude: true
 published: false
+participant_image: "/assets/participants/Camdarcy.png"
 ---
 
 <div class="nhc-participant-header">

@@ -6,6 +6,7 @@ nav_order: 12
 nav_exclude: true
 search_exclude: true
 published: false
+participant_image: "/assets/participants/Majin_Swan.png"
 ---
 
 <div class="nhc-participant-header">
