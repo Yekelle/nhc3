@@ -91,13 +91,19 @@ body::before {
 .site-title::after {
   content: "APOCALYPSE";
   position: absolute;
-  left: 1rem;
-  bottom: 0.25rem;
+
+  left: 50%;
+  transform: translateX(-50%);
+
+  bottom: -0.15rem;
+
   color: var(--nhc-gold-soft);
-  font-size: 0.56rem;
+  font-size: 0.72rem;
   font-weight: 800;
-  letter-spacing: 0.28em;
-  opacity: 0.72;
+  letter-spacing: 0.22em;
+
+  opacity: 0.9;
+  white-space: nowrap;
 }
 
 .site-nav {
