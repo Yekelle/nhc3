@@ -43,9 +43,11 @@ Raven, enquêteur fou du bus qui joue avec les entités, soit ça passe soit ça
 ## Informations
 
 **Expérience sur Phasmophobia :**
+
 Je joue depuis la sortie du jeu avec quelques pause de temps à autres, je me débrouille avec le peu de connaissance que j'ai, parfois incertaines mais on s'en sort quand même pas trop mal
 
 **Spécialité :**
+
 Capacité à oublier de dire au revoir à la ouija et de ne pas comprendre pourquoi ça chasse, ça permet par moment de reconnaitre certaines entités grace à ça lorsqu'elles chassent
 
 ## À propos
