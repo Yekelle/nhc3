@@ -5,7 +5,7 @@ parent: Participants
 nav_order: 18
 nav_exclude: true
 search_exclude: true
-published: true
+published: false
 participant_image: "/logo-nuclear-live.png"
 ---
 
