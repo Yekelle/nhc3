@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Outils utiles
+parent: Astuces et ressources
 nav_order: 2
-nav_exclude: false
-search_exclude: false
-published: true
 ---
 
 # Outils utiles
