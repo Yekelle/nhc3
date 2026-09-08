@@ -4,7 +4,7 @@ title: Clips et captures
 nav_order: 1
 nav_exclude: true
 search_exclude: true
-published: false
+published: true
 ---
 
 # Clips et captures
