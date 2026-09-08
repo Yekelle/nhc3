@@ -4,7 +4,7 @@ title: Outils utiles
 nav_order: 2
 nav_exclude: true
 search_exclude: true
-published: false
+published: true
 ---
 
 # Outils utiles
