@@ -4,7 +4,7 @@ title: Tutoriels Sans Preuve
 nav_order: 3
 nav_exclude: true
 search_exclude: true
-published: false
+published: true
 ---
 
 # Tutoriels Sans Preuve
