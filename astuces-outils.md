@@ -2,8 +2,8 @@
 layout: default
 title: Outils utiles
 nav_order: 2
-nav_exclude: true
-search_exclude: true
+nav_exclude: false
+search_exclude: false
 published: true
 ---
 
