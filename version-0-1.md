@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Version 0.1
+title: Version 1.0
 parent: Historique des modifications
 nav_order: 1
 ---
 
-# Version 0.1
+# Version 1.0
 
-**Date de publication :** 24 juillet 2026  
+**Date de publication :** 10 septembre 2026  
 **Statut :** règlement en cours de préparation
 
-Cette première version met en place la structure générale du règlement de la Nuclear Haunted Cup #3 : Apocalypse.
+Cette première version met en place le règlement de la Nuclear Haunted Cup #3 : Apocalypse.
 
 ## Pages ajoutées
 
@@ -26,17 +26,3 @@ Cette première version met en place la structure générale du règlement de la
 - incidents techniques ;
 - sanctions et contestations ;
 - FAQ.
-
-## Éléments encore à définir
-
-- dates et horaires définitifs ;
-- détail des différentes phases ;
-- barème des points ;
-- règles définitives concernant le chat ;
-- gestion précise des incidents techniques ;
-- sanctions applicables selon les infractions.
-
-<div class="nhc-box nhc-pending">
-  <span class="nhc-box-title">Version préparatoire</span>
-  Cette version contient encore des informations provisoires. Elle ne constitue pas le règlement définitif du tournoi.
-</div>
