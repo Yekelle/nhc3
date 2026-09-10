@@ -3,6 +3,7 @@ layout: default
 title: Astuces et ressources
 nav_order: 4
 has_children: true
+published: false
 ---
 
 # Astuces et ressources

@@ -44,6 +44,24 @@ Sont interdits :
 
 Les règles détaillées concernant le chat seront présentées dans une section spécifique.
 
+### Overlays automatisés
+
+Les fonctions d'overlay capables d'analyser ou de compter automatiquement des éléments de la partie sont interdites.
+
+Cela concerne notamment les fonctions permettant de **compter automatiquement les pas de l'entité**.
+
+## Stream hack
+
+Le **stream hack est strictement interdit**.
+
+Il est interdit de consulter volontairement le stream, le score, la progression ou toute autre information concernant un autre participant **dans le but d'obtenir un avantage compétitif**.
+
+Cela comprend notamment le fait de vérifier les résultats ou l'avancement des autres participants afin d'adapter sa propre stratégie, sa prise de risque ou le nombre de points à rechercher.
+
+Toute utilisation volontaire d'informations obtenues de cette manière, directement par le streamer ou par quelqu'un dans le chat, sera considérée comme de la triche et sanctionnée par l'organisation.
+
+Si vous laissez le stream de Nuclear_Live ouvert, veuillez le muter. Vous aurez les informations de game en direct sur discord avant chaque game.
+
 ## Décision de l’organisation
 
 En cas de doute, l’équipe d’organisation déterminera si un outil ou un comportement procure un avantage contraire à l’esprit du tournoi.

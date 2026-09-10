@@ -5,7 +5,7 @@ parent: Participants
 nav_order: 13
 nav_exclude: true
 search_exclude: true
-published: true
+published: false
 participant_image: "/assets/participants/Morgameover.png"
 ---
 

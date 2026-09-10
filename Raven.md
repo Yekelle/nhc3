@@ -1,23 +1,23 @@
 ---
 layout: default
-title: xr4ven_tv
+title: xR4ven_tv
 parent: Participants
 nav_order: 18
 nav_exclude: true
 search_exclude: true
-published: true
-participant_image: "/logo-nuclear-live.png"
+published: false
+participant_image: "/assets/participants/Raven.png"
 ---
 
 <div class="nhc-participant-header">
   <img
     class="nhc-participant-avatar"
-    src="{{ '/logo-nuclear-live.png' | relative_url }}"
-    alt="Avatar de xr4ven_tv en attente"
+    src="{{ '/assets/participants/Raven.png' | relative_url }}"
+    alt="Avatar de xR4ven_tv"
   >
 
   <div>
-    <h1 class="nhc-participant-name">xr4ven_tv</h1>
+    <h1 class="nhc-participant-name">xR4ven_tv</h1>
 
     <p class="nhc-participant-summary">
       Participant de la Nuclear Haunted Cup #3 : Apocalypse.

@@ -5,7 +5,7 @@ parent: Participants
 nav_order: 6
 nav_exclude: true
 search_exclude: true
-published: true
+published: false
 participant_image: "/assets/participants/Camdarcy.png"
 ---
 

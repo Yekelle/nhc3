@@ -1,11 +1,11 @@
 ---
 layout: default
-title: emmagan24
+title: Emmagan24
 parent: Participants
 nav_order: 9
 nav_exclude: true
 search_exclude: true
-published: true
+published: false
 participant_image: "/assets/participants/emmagan24.png"
 ---
 
@@ -17,7 +17,7 @@ participant_image: "/assets/participants/emmagan24.png"
   >
 
   <div>
-    <h1 class="nhc-participant-name">emmagan24</h1>
+    <h1 class="nhc-participant-name">Emmagan24</h1>
 
     <p class="nhc-participant-summary">
       Participante de la Nuclear Haunted Cup #3 : Apocalypse.

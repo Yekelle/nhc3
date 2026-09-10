@@ -5,7 +5,7 @@ parent: Participants
 nav_order: 12
 nav_exclude: true
 search_exclude: true
-published: true
+published: false
 participant_image: "/assets/participants/Majin_Swan.png"
 ---
 
