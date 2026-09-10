@@ -39,9 +39,9 @@ Il est conseillé de créer avant le tournoi un dossier dédié aux captures d'�
 
 Vous pouvez par exemple créer un sous-dossier par partie :
 
-```text
-NHC3/
+<pre><code>NHC3/
 ├── Partie 1/
 ├── Partie 2/
 ├── Partie 3/
 └── ...
+</code></pre>
