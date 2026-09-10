@@ -31,6 +31,8 @@ L'utilisation d'un outil ne doit cependant jamais fournir un avantage interdit p
 
 Les overlays interactifs avec le chat, les shaders et les outils modifiant artificiellement la visibilité restent notamment interdits.
 
+Exemple de site autorisé : [Phasmo sheet](https://tybayn.github.io/phasmo-cheat-sheet/?lang=fr), [wiki phasmo](https://tybayn.github.io/phasmo-cheat-sheet/?lang=fr)
+
 ## Guide anti-backseat
 
 Un guide de configuration StreamElements est disponible afin d'aider les participants à mettre en place les mots interdits nécessaires pendant le tournoi.
